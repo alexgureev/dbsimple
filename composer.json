@@ -1,0 +1,13 @@
+{
+    "name": "dklab/dbsimple",
+    "type": "library",
+    "keywords": ["db","simple"],
+    "description": "Quite old (PHP4-compatible) interface to work with various DBs.",
+    "license": "LGPL",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "classmap": ["DbSimple/"]
+    }
+}
